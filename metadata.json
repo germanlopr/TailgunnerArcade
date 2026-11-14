@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tail Gunner B-17",
+  "description": "Arcade aéreo desde la torreta de cola de un bombardero B-17G con cinemática de radio, alertas de casco crítico y artillero herido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
